@@ -7,4 +7,4 @@ Typescript Assessment Sample Project
 2. Run the `npm run build` command.
 3. Open the index.html file with help of [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension available in the Visual Studio Market Place.
 
-![Open in Live Server](images\live-server.png "Open in Live Server")
+![Open in Live Server](https://github.com/Gokulr1612/typescript/blob/main/images/live-server.png "Open in Live Server")
